@@ -1,0 +1,156 @@
+.u-section-1 {background-image: url("images/Golder_stone_web-web-1536x576.jpg")}
+.u-section-1 .u-sheet-1 {min-height: 500px}.u-section-2 .u-sheet-1 {min-height: 598px}
+.u-section-2 .u-text-1 {margin: 60px 40px 0 0}
+.u-section-2 .u-text-2 {margin: 20px 0 0}
+.u-section-2 .u-layout-wrap-1 {margin-top: 60px; margin-bottom: 60px}
+.u-section-2 .u-image-1 {min-height: 400px; background-image: url("images/Cluster-Agate---E-Brochure-017.jpg"); background-position: 50% 50%}
+.u-section-2 .u-container-layout-1 {padding: 30px} 
+
+@media (max-width: 1199px){ .u-section-2 .u-sheet-1 {min-height: 470px}
+.u-section-2 .u-text-1 {margin-right: 0}
+.u-section-2 .u-layout-wrap-1 {position: relative}
+.u-section-2 .u-image-1 {min-height: 330px} }
+
+@media (max-width: 991px){ .u-section-2 .u-sheet-1 {min-height: 860px}
+.u-section-2 .u-image-1 {min-height: 253px} }
+
+@media (max-width: 767px){ .u-section-2 .u-sheet-1 {min-height: 1722px}
+.u-section-2 .u-image-1 {min-height: 190px}
+.u-section-2 .u-container-layout-1 {padding-left: 10px; padding-right: 10px} }
+
+@media (max-width: 575px){ .u-section-2 .u-sheet-1 {min-height: 1147px}
+.u-section-2 .u-image-1 {min-height: 120px} }.u-section-3 {background-image: none}
+.u-section-3 .u-sheet-1 {min-height: 541px}
+.u-section-3 .u-layout-wrap-1 {pointer-events: auto; margin: 60px auto 60px 0}
+.u-section-3 .u-layout-cell-1 {min-height: 599px; pointer-events: auto; animation-duration: 1000ms}
+.u-section-3 .u-container-layout-1 {padding: 30px 60px}
+.u-section-3 .u-text-1 {margin: 0}
+.u-section-3 .u-text-2 {font-size: 1.25rem; animation-duration: 1000ms; margin: 34px 0 0}
+.u-section-3 .u-btn-1 {background-image: none; border-style: none; margin: 37px auto 0 8px}
+.u-section-3 .u-layout-cell-2 {min-height: 599px; pointer-events: auto}
+.u-section-3 .u-image-1 {background-image: url("images/Cluster-Agate---E-Brochure-0041.jpg"); background-position: 50% 50%}
+.u-section-3 .u-container-layout-2 {padding: 30px 60px} 
+
+@media (max-width: 1199px){ .u-section-3 .u-layout-wrap-1 {margin-right: initial; margin-left: initial}
+.u-section-3 .u-layout-cell-1 {min-height: 494px}
+.u-section-3 .u-btn-1 {margin-left: 0}
+.u-section-3 .u-layout-cell-2 {min-height: 494px; background-position: 50% 50%} }
+
+@media (max-width: 991px){ .u-section-3 .u-layout-cell-1 {min-height: 100px}
+.u-section-3 .u-container-layout-1 {padding-left: 30px; padding-right: 30px}
+.u-section-3 .u-layout-cell-2 {min-height: 378px}
+.u-section-3 .u-container-layout-2 {padding-left: 30px; padding-right: 30px} }
+
+@media (max-width: 767px){ .u-section-3 .u-container-layout-1 {padding-left: 10px; padding-right: 10px}
+.u-section-3 .u-layout-cell-2 {min-height: 567px}
+.u-section-3 .u-container-layout-2 {padding-left: 10px; padding-right: 10px} }
+
+@media (max-width: 575px){ .u-section-3 .u-layout-cell-2 {min-height: 357px} }.u-section-4 {background-image: none; margin-top: 0; margin-bottom: 0}
+.u-section-4 .u-sheet-1 {min-height: 400px}
+.u-section-4 .u-layout-wrap-1 {margin-top: 0; margin-bottom: 0}
+.u-section-4 .u-layout-cell-1 {min-height: 400px}
+.u-section-4 .u-image-1 {background-image: url("images/golden-hills-main-gate.original.jpg")}
+.u-section-4 .u-container-layout-1 {padding: 30px}
+.u-section-4 .u-layout-cell-2 {min-height: 400px; animation-duration: 1000ms}
+.u-section-4 .u-container-layout-2 {padding: 30px}
+.u-section-4 .u-text-1 {animation-duration: 1000ms; margin: 0 0 0 auto}
+.u-section-4 .u-text-2 {margin-left: auto; margin-right: 0; animation-duration: 1000ms} 
+
+@media (max-width: 1199px){ .u-section-4 .u-sheet-1 {min-height: 238px}
+.u-section-4 .u-layout-wrap-1 {position: relative}
+.u-section-4 .u-layout-cell-1 {min-height: 330px}
+.u-section-4 .u-layout-cell-2 {min-height: 330px} }
+
+@media (max-width: 991px){ .u-section-4 .u-sheet-1 {min-height: 161px}
+.u-section-4 .u-layout-cell-1 {min-height: 253px}
+.u-section-4 .u-layout-cell-2 {min-height: 100px} }
+
+@media (max-width: 767px){ .u-section-4 .u-sheet-1 {min-height: 388px}
+.u-section-4 .u-layout-cell-1 {min-height: 380px}
+.u-section-4 .u-container-layout-1 {padding-left: 10px; padding-right: 10px}
+.u-section-4 .u-container-layout-2 {padding-left: 10px; padding-right: 10px} }
+
+@media (max-width: 575px){ .u-section-4 .u-sheet-1 {min-height: 247px}
+.u-section-4 .u-layout-cell-1 {min-height: 239px} }.u-section-5 .u-sheet-1 {min-height: 484px}
+.u-section-5 .u-text-1 {margin: 13px 20px 0}
+.u-section-5 .u-gallery-1 {height: 364px; grid-gap: 17px 17px; margin: 39px auto 30px 0}
+.u-section-5 .u-over-slide-1 {background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)); padding: 20px}
+.u-section-5 .u-over-slide-2 {background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)); padding: 20px}
+.u-section-5 .u-over-slide-3 {background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)); padding: 20px} 
+
+@media (max-width: 1199px){ .u-section-5 .u-sheet-1 {min-height: 470px}
+.u-section-5 .u-text-1 {margin-left: 0; margin-right: 0}
+.u-section-5 .u-gallery-1 {height: 300px; grid-template-columns: auto auto auto; margin-right: initial; margin-left: initial} }
+
+@media (max-width: 991px){ .u-section-5 .u-sheet-1 {min-height: 860px}
+.u-section-5 .u-gallery-1 {height: 690px; grid-template-columns: repeat(2, auto); margin-right: initial; margin-left: initial} }
+
+@media (max-width: 767px){ .u-section-5 .u-sheet-1 {min-height: 1722px}
+.u-section-5 .u-gallery-1 {height: 1552px; grid-template-columns: repeat(1, auto); margin-right: initial; margin-left: initial} }
+
+@media (max-width: 575px){ .u-section-5 .u-sheet-1 {min-height: 1147px}
+.u-section-5 .u-gallery-1 {height: 977px; margin-right: initial; margin-left: initial} }.u-section-6 .u-sheet-1 {min-height: 424px}
+.u-section-6 .u-gallery-1 {height: 364px; grid-gap: 17px 17px; margin: 30px auto 30px 0}
+.u-section-6 .u-over-slide-1 {background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)); padding: 20px}
+.u-section-6 .u-over-slide-2 {background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)); padding: 20px}
+.u-section-6 .u-over-slide-3 {background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)); padding: 20px} 
+
+@media (max-width: 1199px){ .u-section-6 .u-sheet-1 {min-height: 470px}
+.u-section-6 .u-gallery-1 {height: 300px; grid-template-columns: auto auto auto; margin-right: initial; margin-left: initial} }
+
+@media (max-width: 991px){ .u-section-6 .u-sheet-1 {min-height: 860px}
+.u-section-6 .u-gallery-1 {height: 690px; grid-template-columns: repeat(2, auto); margin-right: initial; margin-left: initial} }
+
+@media (max-width: 767px){ .u-section-6 .u-sheet-1 {min-height: 1722px}
+.u-section-6 .u-gallery-1 {height: 1552px; grid-template-columns: repeat(1, auto); margin-right: initial; margin-left: initial} }
+
+@media (max-width: 575px){ .u-section-6 .u-sheet-1 {min-height: 1147px}
+.u-section-6 .u-gallery-1 {height: 977px; margin-right: initial; margin-left: initial} }.u-section-7 {background-image: none}
+.u-section-7 .u-sheet-1 {min-height: 500px}
+.u-section-7 .u-layout-wrap-1 {margin-top: 60px; margin-bottom: 60px}
+.u-section-7 .u-layout-cell-1 {min-height: 400px; background-image: none}
+.u-section-7 .u-container-layout-1 {padding: 30px}
+.u-section-7 .u-text-1 {margin-top: 0; margin-bottom: 0}
+.u-section-7 .u-text-2 {margin-left: 0}
+.u-section-7 .u-layout-cell-2 {min-height: 400px}
+.u-section-7 .u-container-layout-2 {padding: 30px}
+.u-section-7 .u-map-1 {animation-duration: 1000ms} 
+
+@media (max-width: 1199px){ .u-section-7 .u-sheet-1 {min-height: 430px}
+.u-section-7 .u-layout-wrap-1 {position: relative}
+.u-section-7 .u-layout-cell-1 {min-height: 330px}
+.u-section-7 .u-layout-cell-2 {min-height: 330px} }
+
+@media (max-width: 991px){ .u-section-7 .u-sheet-1 {min-height: 353px}
+.u-section-7 .u-layout-cell-1 {min-height: 100px}
+.u-section-7 .u-layout-cell-2 {min-height: 253px} }
+
+@media (max-width: 767px){ .u-section-7 .u-sheet-1 {min-height: 860px}
+.u-section-7 .u-container-layout-1 {padding-left: 10px; padding-right: 10px}
+.u-section-7 .u-layout-cell-2 {min-height: 380px}
+.u-section-7 .u-container-layout-2 {padding-left: 10px; padding-right: 10px} }
+
+@media (max-width: 575px){ .u-section-7 .u-sheet-1 {min-height: 578px}
+.u-section-7 .u-layout-cell-2 {min-height: 239px} }.u-section-8 {background-image: none}
+.u-section-8 .u-sheet-1 {min-height: 70px}
+.u-section-8 .u-text-1 {font-size: 0.875rem; margin: 13px 0} 
+
+@media (max-width: 1199px){ .u-section-8 .u-text-1 {width: 800px} }
+
+@media (max-width: 991px){ .u-section-8 .u-text-1 {width: 720px} }
+
+@media (max-width: 767px){ .u-section-8 .u-text-1 {width: 540px} }
+
+@media (max-width: 575px){ .u-section-8 .u-text-1 {width: 340px} }.u-section-9 {background-image: linear-gradient(0deg, rgba(0,0,0,0.85), rgba(0,0,0,0.85)), url("images/Cluster-Agate---E-Brochure-017.jpg"); background-position: 50% 50%}
+.u-section-9 .u-sheet-1 {min-height: 388px}
+.u-section-9 .u-text-1 {font-size: 1.125rem; font-weight: 700; margin: 60px 20px 0}
+.u-section-9 .u-btn-1 {background-image: none; border-style: none; font-weight: 700; margin: 20px auto 60px} 
+
+@media (max-width: 1199px){ .u-section-9 .u-sheet-1 {min-height: 320px}
+.u-section-9 .u-text-1 {margin-left: 0; margin-right: 0} }
+
+@media (max-width: 991px){ .u-section-9 .u-sheet-1 {min-height: 245px} }
+
+@media (max-width: 767px){ .u-section-9 .u-sheet-1 {min-height: 184px} }
+
+@media (max-width: 575px){ .u-section-9 .u-sheet-1 {min-height: 116px} }
